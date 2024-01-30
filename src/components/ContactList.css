@@ -1,0 +1,15 @@
+.Container{
+margin: 0px 57px;
+
+}
+.add_button{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 18px;
+}
+.adding{
+    background-color:  rgb(39, 174, 39);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}

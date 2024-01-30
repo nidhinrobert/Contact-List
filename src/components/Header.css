@@ -1,0 +1,40 @@
+.header{
+    background-color: rgb(39, 174, 39);
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 18px;
+}
+
+.boxing{
+    margin-left: 260px;
+}
+.header h2{
+
+}
+.contactCount h3{
+    color: black;
+}
+.searchBox{
+    gap: 10px;
+    padding: 22px 0;
+    
+}
+.searching{
+    display: flex;
+    gap: 10px;
+    padding: 5px;
+    border: 1px solid #fff;
+    border-radius: 16px;
+}
+.searchIcon{
+    padding: 3px;
+}
+#search{
+    height: 30px;
+    border: none;
+    background-color: #fff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: black;
+}

@@ -1,0 +1,30 @@
+.ContactForm {
+    margin-top: -30px;
+    padding: -1px 92px 15px 43px;
+    border-radius: 8px;
+    
+}
+.error{
+    color: red;
+}
+.title {
+    margin-bottom: 20px;
+}
+.title h5{
+    margin-bottom: 10px;
+}
+input {
+    width: 430px;
+    border-radius: 7px;
+    border: 1px solid;
+    padding: 10px 10px;
+}
+
+#inputer {
+    height: 155px;
+    min-width: 430px;
+    padding: 4px 11px;
+}
+.button-9{
+    background-color: rgb(39, 174, 39)
+}

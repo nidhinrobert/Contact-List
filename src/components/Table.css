@@ -1,0 +1,57 @@
+.table th{
+    text-align: justify;
+    padding: 10px 20px
+}
+
+
+/* Add some basic styling to the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    background-color: #fff;
+   border-radius: 30px;
+   
+
+  }
+  
+  /* Style the table headers */
+  th {
+    background-color: #f2f2f2;
+    padding: 12px;
+    text-align: left;
+    color: black;
+  }
+  
+  /* Style the table rows */
+  td, th {
+    border: 1px solid black;
+    padding: 29px;
+    color: black;
+    font-weight: 600;
+  }
+  
+  /* Add some hover effect to the table rows */
+  
+  
+  .ED_btns{
+    display: flex;
+    gap: 20px;
+  }
+  .Delete-btn{
+    color: rgb(252, 0, 0);
+  }
+  .Edit-btn{
+    color:  rgb(39, 174, 39);
+  }
+  .userpic{
+    width: 40px !important;
+    height: 40px !important;
+    object-fit: cover;
+    border-radius: 20px !important;
+}
+.name_pic{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}

@@ -1,0 +1,33 @@
+.pagination{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.pagination button:hover{
+    background-color: #595e6d;
+}
+.numbers{
+    font-size: 16px;
+    color: white;
+    background-color: rgb(39, 174, 39);
+    padding: 3px 7px;
+    border: none;
+    border-radius: 2px;
+}
+.numbers i{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.current{
+    font-size: 17px;
+    background-color: rgb(29, 29, 29);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.fa-chevron-left{
+    font-size: 8px;
+}
